@@ -1278,7 +1278,7 @@ h4 {
   align-items: center;
   text-align: center;
   overflow: hidden;
-  background: url('/imagens/rostosehistorias.jpg') center/cover no-repeat;
+  background: url('rostosehistorias.jpg') center/cover no-repeat;
 }
 
 .banner-overlay {
