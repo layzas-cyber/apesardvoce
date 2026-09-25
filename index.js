@@ -355,7 +355,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const STATS_API_URL = './stats.json'; // Ou substitua pela URL do seu endpoint
 
   const defaultValues = {
-    feminicidios: "1.571 Feminicídios registrados no Brasil em um ano.",
+    feminicidios: "1.571 de feminicídios registrados no Brasil em um ano.",
     agressoes: "≈29 milhões",
     frequencia: "1 em cada 3",
     conhecidos: "80%",
