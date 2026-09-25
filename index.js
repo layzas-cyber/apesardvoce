@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', () => {
     agressoes: "≈29 milhões",
     frequencia: "1 em cada 3",
     conhecidos: "80%",
-    trans_travestis: "97%"
+    trans_travestis: "97% dos Casos"
   };
 
   async function loadLiveStats() {
